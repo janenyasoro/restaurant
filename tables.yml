@@ -1,0 +1,26 @@
+---
+1: !ruby/object:Order
+  order1: chips
+  order2: kuku
+  order3: beef stew
+  tableno: 1
+2: !ruby/object:Order
+  order1: chips
+  order2: kuku
+  order3: beef stew
+  tableno: 2
+3: !ruby/object:Order
+  order1: kuku and ugali
+  order2: fish and chapo
+  order3: matumbo and kienyeji
+  tableno: 3
+4: !ruby/object:Order
+  order1: kuku and ugali
+  order2: fish and chapo
+  order3: matumbo and kienyeji
+  tableno: 4
+5: !ruby/object:Order
+  order1: chips
+  order2: fish and chapo
+  order3: beef stew
+  tableno: 5
